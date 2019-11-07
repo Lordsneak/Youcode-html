@@ -1,0 +1,26 @@
+body{
+background:#00a8ff;
+}
+.header{
+    width:1280px;
+    height:50px;
+    background:#0097e6;
+    text-align:center;
+    font-family:sans-serif;
+    font-size:50px;
+}
+li{
+    display: inline-block;
+	width: 100px;
+	margin-right: 20px;
+	vertical-align: top;
+	text-align: left;
+     
+}
+ul {
+     width:720px;
+    height:20px;
+    background:#3BB3EF;
+    padding:5px;
+    margin:5px;
+}
